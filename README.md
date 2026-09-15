@@ -1,2 +1,2 @@
-# michael-wikis.github.io
-michael wiki lalala
+# MICHAEL'S AWESOME WIKI
+Welcome bro
