@@ -1,0 +1,31 @@
+.backrooms {
+  background-image: url("../images/backgroundBro.png");
+}
+
+.closeToBlack {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #111111;
+  background: linear-gradient(
+    180deg,
+    rgba(17, 17, 17, 1) 0%,
+    rgba(68, 68, 68, 1) 76%
+  );
+}
+
+.lalaland {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Comic Sans MS", sans-serif;
+}
+
+#coolMusic {
+  border: 2px solid #333333;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
